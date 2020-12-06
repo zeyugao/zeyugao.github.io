@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/elsagranger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://elsagranger.com
+  * I am elsagranger (https://keybase.io/elsagranger) on keybase.
+  * I have a public key ASB_rZJ2OhfDxuWYe0C_2XsDUPP5NaUPabQE2egO2S8poAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207fad92763a17c3c6e5987b40bfd97b0350f3f935a50f69b404d9e80ed92f29a00a",
+      "host": "keybase.io",
+      "kid": "01207fad92763a17c3c6e5987b40bfd97b0350f3f935a50f69b404d9e80ed92f29a00a",
+      "uid": "dfbd886a7f5b778f65a17834f2fac219",
+      "username": "elsagranger"
+    },
+    "merkle_root": {
+      "ctime": 1607216959,
+      "hash": "ad6149a0ea01373ef82bc142f0719db4ffad630d34aba06032ef4d0dcc2e94c2bed36ca72606b8b4480b26e77b49553f628c8cf820fc1fea9c6d1862bd1a7c78",
+      "hash_meta": "0339c15d62748c3e670bc383210bc25031507eefca7f178c1efe34afae232009",
+      "seqno": 18325189
+    },
+    "service": {
+      "entropy": "05Ys7RNbEdznLHcvLPnBMtcl",
+      "hostname": "elsagranger.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1607216976,
+  "expire_in": 504576000,
+  "prev": "2600922bfbc49bf560e2cb27d6daae1265fab68599b9c9633b29835b7b86486f",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf62SdjoXw8blmHtAv9l7A1Dz+TWlD2m0BNnoDtkvKaAKp3BheWxvYWTESpcCDMQgJgCSK/vEm/Vg4ssn1tquEmX6toWZucljOymDW3uGSG/EIHZtXk1RZjN2I6czCMASSRZyNt6FwbeHH6QLp7wBhUcLAgHCo3NpZ8RAOdW/A7h48vk1RWhMNG97Y3cinxxBEXw7/zPToWeAoUQB0Dhk9NpHyfxMIZwhpnLm+F69Fcui43nv95ULbve+DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID1MVkgznD3AH5G50TIpFPogDY4chDGfglf3dF7Os6HCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elsagranger
+
+==================================================================
