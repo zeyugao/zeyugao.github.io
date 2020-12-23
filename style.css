@@ -9,6 +9,17 @@ html {
     }
 }
 
+@media (max-width: 720px) {
+    div.content {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+}
+
+div.content {
+    line-height: 1.2;
+}
+
 div.center {
     display: flex;
     flex-direction: column;
@@ -16,10 +27,6 @@ div.center {
     align-items: center;
     min-height: 90vh;
     font-family: 'Baloo 2', sans-serif;
-}
-
-div.content {
-    line-height: 1.2;
 }
 
 img.rounded {
