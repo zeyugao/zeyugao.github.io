@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/baloo2/wXKrE3kTposypRyd51jcBQ.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/baloo2/wXKuE3kTposypRyd74f4FeMKnQ.ttf) format('truetype');
+}
