@@ -42,14 +42,19 @@ img.head {
     aspect-ratio: 1;
 }
 
+.edu-exp {
+    font-size: 1.2rem;
+    margin-top: 12px;
+}
+
 a.animated {
     color: black;
-    margin-right: 10px;
+    margin-right: 12px;
     text-decoration: none;
     display: inline-block;
     position: relative;
 
-    font-size: 1.25rem;
+    font-size: 1rem;
 
     font-family: 'Baloo 2', sans-serif;
 }
